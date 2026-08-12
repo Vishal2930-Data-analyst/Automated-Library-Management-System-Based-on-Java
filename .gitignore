@@ -1,1 +1,17 @@
+# Java compiled files
+*.class
 
+# Build folders
+bin/
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+.env
+config.properties
